@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<testsuite failures="0" time="3.641" errors="0" skipped="0" tests="1" name="BasicTest">
-  <testcase classname="BasicTest" name="useTheCommentsRelation" time="3.641">
+<testsuite failures="0" time="6.714" errors="0" skipped="0" tests="1" name="BasicTest">
+  <testcase classname="BasicTest" name="testTags" time="6.714">
       </testcase>
 </testsuite>

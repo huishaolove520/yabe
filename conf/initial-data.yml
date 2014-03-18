@@ -1,3 +1,16 @@
+Tag(play):
+    name:           Play
+ 
+Tag(architecture):
+    name:           Architecture
+ 
+Tag(test):
+    name:           Test
+ 
+Tag(mvc):
+    name:           MVC
+
+
 # Test data
 
 User(bob):
@@ -66,3 +79,14 @@ Comment(c3):
     postedAt:       2009-04-05
     post:           secondBobPost    
                  
+
+Post(jeffPost):
+    title:          The MVC application
+    postedAt:       2009-06-06
+    author:         jeff
+    tags:
+                    - play
+                    - architecture
+                    - mvc
+    content:        >
+                    A Play
