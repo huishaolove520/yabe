@@ -9,6 +9,9 @@ GET     /posts/{id}                             Application.show
 
 GET     /captcha                                Application.captcha
 
+# Administration
+GET     /admin/?                                Admin.index
+
 # Import CRUD routes
 *       /admin                                  module:crud
 
